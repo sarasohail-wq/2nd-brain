@@ -17,3 +17,5 @@ The process of taking a pre-trained model and training it further on a smaller, 
 ## 4. Embeddings & Vector Databases
 *   **Embeddings:** Numerical representations of text that capture semantic meaning.
 *   **Vector DBs:** Specialized databases (like Pinecone or Weaviate) that store and search these embeddings for fast retrieval.
+
+Note: Updated on 2026-05-03
