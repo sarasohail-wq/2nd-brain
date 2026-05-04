@@ -13,7 +13,10 @@ The graph shows your pace over time.
 ## Feedback & Recommendations:
 1.  **Maintain the Baseline:** Your average of 128 is a great "anchor." Use this for delivering key facts or when you want to sound authoritative and calm.
 2.  **Strategic Speed-Up:** When you are sharing an exciting idea or a personal anecdote, it's okay to let that variation peak higher (towards 150). It signals passion.
-3. The Power of the Pause: Those dips in your graph (below 120) are great places for pauses. Ensure those dips represent intentional pauses for emphasis, rather than filler words (um, ah).
+3.  **The Power of the Pause:** Those dips in your graph (below 120) are great places for pauses. Ensure those dips represent intentional pauses for emphasis, rather than filler words (um, ah).
+4.  **Reduce Filler Bloat:** Your current filler word usage is **4.4%**. Aim to reduce this to **< 2%** by replacing "ums" and "ahs" with intentional silence.
+5.  **Vary Sentence Starters:** You currently repeat sentence starters ~44 times per session. Practice starting directly with the subject (e.g., "We implemented..." instead of "So, we implemented...") to cut verbal drag.
+6.  **Interactivity Target:** Move from a 75/25 talk ratio to **60/40**. Use the "3-Minute Hard Stop" and "Bridge Questions" to hand off the conversation.
 
 # Tone Analysis
 
@@ -25,7 +28,7 @@ The tone analysis from your successful Medisync pitch confirms a highly effectiv
 ## 2. Summary of the Winning Formula:
 *   **Anchor:** 128 WPM (Authoritative)
 *   **Tone:** Professional/Calm (Trust-building)
-*   **Engagement:** Question-Driven 75/25 (Consultative)
+*   **Engagement:** 60/40 Target (Proactive Discovery)
+*   **Precision:** < 2% Fillers / < 15 Repeated Starters
 
-
-Note: Updated on 2026-05-03
+Note: Updated on 2026-05-04
