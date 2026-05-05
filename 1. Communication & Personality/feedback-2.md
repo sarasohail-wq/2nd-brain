@@ -32,4 +32,4 @@ Use these to transition from your technical expertise back to the client's busin
 ## 4. Next Steps for Today
 Practice an AI-focused pitch using the "Check-In" rule. Set a timer for 3 minutes; when it dings, you MUST stop and ask one of the Bridge Questions above.
 
-Note: Updated on 2026-05-03
+Note: Updated on 2026-05-04

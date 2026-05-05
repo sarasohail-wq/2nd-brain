@@ -4,6 +4,7 @@
 We have shifted from simple "chatbots" to autonomous **AI Agents**.
 *   **Action-Oriented:** Agents can now plan and execute multi-step tasks (e.g., booking travel, coding entire features, or managing schedules) rather than just answering questions.
 *   **Multi-Agent Systems (MAS):** Different specialized agents can now collaborate, negotiate, and share context to solve complex problems.
+*   **Architecture:** Systems are moving towards a **[Knowledge Catalog Architecture](./Knowledge_Catalog_Architecture.md)**, which uses a "Universal Context Engine" to feed specialized agents.
 
 ## 2. Advanced Reasoning & Self-Correction
 Models (like the OpenAI 'o1' series) now incorporate **inference-time compute**, allowing them to "think" before they speak.
